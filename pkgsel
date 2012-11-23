@@ -6,6 +6,10 @@ O perl-dbd-mysql
 O perl-dbd-postgresql
 O perl-dbi
 O perl-xml-libxml-xpathcontext
+O aufs
+O xf86-video-xgi
+O dbh
+O notification-daemon
 X llvm
 X openssl
 X xfce4/*
@@ -38,4 +42,12 @@ X libidl
 X curl
 X firefox
 X libnotify 
+X libsexy
+X pygtk
+X pycairo
+X gobject-introspection
+X pygobject
+X pysqlite2
+O dbh
 O notification-daemon
+O xfmedia
